@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.dukescript.api:javafx.base:8.60.11">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dukescript/api/javafx.base/8.60.11/javafx.base-8.60.11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dukescript/api/javafx.base/8.60.11/javafx.base-8.60.11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dukescript/api/javafx.base/8.60.11/javafx.base-8.60.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
